@@ -17,3 +17,8 @@
 
 - 🎮 [chinese-dos-games](https://github.com/rwv/chinese-dos-games): Chinese DOS games collection
 - ⚡ [flash-archive-project](https://github.com/rwv/flash-archive-project): Chinese good old days' Adobe Flash
+
+
+### Others
+
+- 🦁️ [Rising-KaKa](https://github.com/rwv/Rising-KaKa): 瑞星小狮子卡卡
