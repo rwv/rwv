@@ -4,9 +4,9 @@
 
 ### Docker
 
-- 🐋 [docker-zerotier](https://github.com/rwv/docker-zerotier): Dockerized ZeroTier
-- 🐋 [docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon): Dockerized ZeroTier moon
-- 🐋 [docker-telegram-mirror](https://github.com/rwv/docker-telegram-mirror): Telegram web mirror including API
+- 🐳 [docker-zerotier](https://github.com/rwv/docker-zerotier): Dockerized ZeroTier
+- 🐳 [docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon): Dockerized ZeroTier moon
+- 🐳 [docker-telegram-mirror](https://github.com/rwv/docker-telegram-mirror): Telegram web mirror including API
 
 ### Utils
 
