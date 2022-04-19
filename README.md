@@ -1,6 +1,7 @@
 ### App
 
 - 🍎 [AppStorify](https://github.com/rwv/AppStorify): Find non-Mac App Store apps and storify it
+- 📚 [Look Scanned](https://lookscanned.io): Make your PDF look scanned
 
 ### Docker
 
