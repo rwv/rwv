@@ -1,4 +1,4 @@
-[🏠 Homepage](https://zczc.cz/) | [💸 Sponsor Me](https://zczc.cz/supportMe) | [⚙️ Status](https://status.zczc.cz)
+[🏠 Homepage](https://zczc.cz/) | [💸 Sponsor Me](https://zczc.cz/sponsor) | [⚙️ Status](https://status.zczc.cz)
 
 ### App
 
