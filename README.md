@@ -1,3 +1,5 @@
+[🏠 Homepage](https://zczc.cz/) | [💸 Sponsor Me](https://zczc.cz/supportMe) | [⚙️ Status](https://status.zczc.cz)
+
 ### App
 
 - 🍎 [AppStorify](https://github.com/rwv/AppStorify): Find non-Mac App Store apps and storify it
