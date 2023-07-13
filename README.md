@@ -13,8 +13,8 @@
 
 ### Utils
 
-- ⚡ [ruffle-mirror](https://github.com/rwv/ruffle-mirror): Auto npm mirror for ruffle
 - 🍎 [iTMSTransporter-downloader](https://github.com/rwv/iTMSTransporter-downloader): iTMSTransporter components downloader
+- ☁ [get-cloudflare-location](https://github.com/rwv/get-cloudflare-location): A JavaScript function to get user's location based on Cloudflare `/cdn-cgi/trace`
 
 ### Collections
 
