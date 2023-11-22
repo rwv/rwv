@@ -17,6 +17,7 @@
 
 - 🍎 [iTMSTransporter-downloader](https://github.com/rwv/iTMSTransporter-downloader): iTMSTransporter components downloader
 - ☁ [get-cloudflare-location](https://github.com/rwv/get-cloudflare-location): A JavaScript function to get user's location based on Cloudflare `/cdn-cgi/trace`
+- 📦 [get-npm-file](https://github.com/rwv/get-npm-file): Get NPM file from various CDNs simultaneously
 
 ### Collections
 
