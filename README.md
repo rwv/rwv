@@ -21,6 +21,7 @@
 - 📦 [get-npm-file](https://github.com/rwv/get-npm-file): Get NPM file from various CDNs simultaneously
 - 📦 [workbox-mirror-precache-plugin](https://github.com/rwv/workbox-mirror-precache-plugin): A workbox plugin that fetch precache files from various mirrors
 - 📦 [workbox-add-integrity](https://github.com/rwv/workbox-add-integrity): A workbox plugin that add integrity to workbox precache manifest
+- 🔐 [otpauth-migration](https://github.com/rwv/otpauth-migration): Convert between otpauth-migration and otpauth in JavaScript
 
 ### Collections
 
