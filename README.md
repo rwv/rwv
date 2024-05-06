@@ -1,4 +1,6 @@
-[🏠 Homepage](https://rwv.dev/) | [⚙️ Status](https://status.rwv.dev)
+[![Homepage](https://img.shields.io/website?url=https%3A%2F%2Frwv.dev&up_message=rwv.dev&up_color=orange&label=%F0%9F%8F%A0%20homepage)](https://rwv.dev/)
+[![System Status](https://img.shields.io/website?url=https%3A%2F%2Fstatus.rwv.dev&label=%E2%9A%99%EF%B8%8F%20service%20status)](https://status.rwv.dev)
+[![rwv's stars](https://img.shields.io/github/stars/rwv?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github)](https://github.com/rwv?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ### App
 
