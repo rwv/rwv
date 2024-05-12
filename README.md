@@ -32,7 +32,7 @@
 
 ### Cloudflare Workers
 
-- 👷 [bcrypt-workers](https://github.com/rwv/bcrypt-workers) : bcrypt API for Cloudflare Workers
+- 👷 [bcrypt-workers](https://github.com/rwv/bcrypt-workers): bcrypt API for Cloudflare Workers
 - 👷 [opencc-workers](https://github.com/rwv/opencc-workers): Open Chinese Convert (OpenCC) API for Cloudflare Workers
 
 ### Others
