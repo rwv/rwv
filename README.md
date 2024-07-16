@@ -1,7 +1,7 @@
 [![Homepage](https://img.shields.io/website?url=https%3A%2F%2Frwv.dev&up_message=rwv.dev&up_color=orange&label=%F0%9F%8F%A0%20homepage)](https://rwv.dev/)
 [![System Status](https://img.shields.io/website?url=https%3A%2F%2Fstatus.rwv.dev&label=%E2%9A%99%EF%B8%8F%20service%20status)](https://status.rwv.dev)
 [![rwv's stars](https://img.shields.io/github/stars/rwv?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github)](https://github.com/rwv?tab=repositories&q=&type=&language=&sort=stargazers)
-[面包多](https://mbd.pub/o/rwv)
+[![面包多](https://img.shields.io/website?url=https%3A%2F%2Fmbd.pub%2Fo%2Frwv&up_message=rwv&label=%F0%9F%8D%A9%20%E9%9D%A2%E5%8C%85%E5%A4%9A&color=rgb(255%2C213%2C33))](https://mbd.pub/o/rwv)
 
 ### App
 
